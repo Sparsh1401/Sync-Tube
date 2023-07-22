@@ -19,7 +19,6 @@ Use the package manager [npm](https://www.npmjs.com/) to set up the project in y
 
 ```bash
 git clone https://github.com/Sparsh1401/Sync-Tube.git
-cd synced-up
 ```
 
 Install all the dependencies
