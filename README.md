@@ -18,7 +18,7 @@ Synced-Up is a platform for watching custom uploaded or youtube videos with frie
 Use the package manager [npm](https://www.npmjs.com/) to set up the project in your local environment.
 
 ```bash
-git clone https://github.com/tanay13/synced-up.git
+git clone https://github.com/Sparsh1401/Sync-Tube.git
 cd synced-up
 ```
 
